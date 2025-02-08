@@ -91,7 +91,7 @@ sneakify/
 ## 📸 **Screenshots**
 > Add screenshots of your application for better visibility.  
 > Example:
-> ![Home Screen](https://github.com/your-github-username/sneakify/screenshots/home.png)  
+> ![Home Screen](https://github.com/FaizanAhmed44/Sneakify/asset/images/S.png)  
 
 | **Screen**  | **Screenshot** |
 |-------------|---------------|
