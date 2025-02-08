@@ -1,7 +1,7 @@
 
 # 📌 **Sneakify - E-commerce App for Shoes**  
 
-🚀 **Sneakify** is a Flutter-based e-commerce application designed for seamless online shoe shopping. The app is integrated with Firebase for authentication, database storage, and product management. It provides users with an intuitive shopping experience, secure checkout, and order tracking.
+**Sneakify** is a Flutter-based e-commerce application designed for seamless online shoe shopping. The app is integrated with Firebase for authentication, database storage, and product management. It provides users with an intuitive shopping experience, secure checkout, and order tracking.
 
 ---
 
@@ -34,7 +34,9 @@
 ✔️ **Real-time Chats:** with Admin to assist users instantly.   
 ✔️ **Secure Payments:** Integration with payment gateways.  
 
+  
 ---
+
 
 ## 💻 **Tech Stack**
 - **Frontend:** Flutter (Dart)  
@@ -44,9 +46,12 @@
 - **Authentication:** Firebase Auth  
 - **Storage:** Firebase Storage (for product images)  
 
+
 ---
 
+
 ## 🛠 **Installation**  
+
 
 1️⃣ **Clone the Repository**  
 ```bash
@@ -65,7 +70,9 @@ flutter pub get
 flutter run
 ```
 
+
 ---
+
 
 
 ## 📸 **Screenshots**
@@ -74,7 +81,9 @@ flutter run
 > <img src="https://cdn.tmobile.com/content/dam/t-mobile/en-p/cell-phones/apple/Apple-iPhone-16-Pro/Desert-Titanium/Apple-iPhone-16-Pro-Desert-Titanium-thumbnail.png" width="350" height="500">
 
 
+
 ---
+
 
 ## ⚙️ **How It Works**
 ### 1️⃣ User Authentication  
@@ -94,7 +103,9 @@ flutter run
 - Users can **place orders** and view **order history**.  
 - Orders are stored in Firebase Firestore.  
 
+
 ---
+
 
 ## 🔥 **Firebase Configuration**
 1️⃣ Create a **Firebase Project**  
@@ -107,7 +118,9 @@ android/app/
 5️⃣ Set up **Firestore Database** with a collection for **products, users, and orders**  
 6️⃣ Enable **Firebase Storage** for product images  
 
+
 ---
+
 
 ## 🛠 **Admin Panel**
 - Admins can **add, edit, and delete products**.  
@@ -115,22 +128,29 @@ android/app/
 - **Secure access** to admin features.
 - **Analytics dashboard** to track performance and sales insights. 
 
+
 ---
+
 
 ## 📜 **License**
 This project is licensed under the **MIT License**.
 
+
 ---
+
 
 ## 🧑 **Author**
 **Faizan Ahmed**  
 🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/faizan-ahmed-303793255/)  
 
+
 ---
+
 
 ### ⭐ **Support & Follow**
 If you liked this repo, please **support it by giving a star ⭐!**  
 Also, follow my **GitHub profile** to stay updated about my latest projects:  
 🔗 **GitHub:** [Your GitHub Profile](https://github.com/FaizanAhmed44)
+
 
 ---
