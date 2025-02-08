@@ -25,6 +25,7 @@
 - [Firebase Configuration](#firebase-configuration)
 - [Admin Panel](#admin-panel)
 - [License](#license)
+- [Author](#author)
 
 
 
