@@ -13,32 +13,33 @@
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
-- [Project Structure](#project-structure)
 - [Screenshots](#screenshots)
 - [How It Works](#how-it-works)
 - [Firebase Configuration](#firebase-configuration)
 - [Admin Panel](#admin-panel)
-- [Contributing](#contributing)
 - [License](#license)
 
 ---
 
-## 🚀 **Features**  
-✔️ **User Authentication:** Sign in, sign up, and Google authentication.  
+## 🎯 **Features**  
+✔️ **30+** beautifully designed screens for a smooth and intuitive user journey.   
+✔️ **User Authentication:** Sign in, sign up, and Google authentication.   
 ✔️ **Product Listings:** Users can browse and search for shoes.  
 ✔️ **Product Details:** Detailed view with images, descriptions, and pricing.  
 ✔️ **Cart & Checkout:** Users can add products to the cart and proceed to checkout.  
 ✔️ **Order Management:** Track order history and status.  
 ✔️ **Wishlist:** Save favorite products for later.  
 ✔️ **Admin Panel:** Add, update, and delete products.  
+✔️ **Analytics Dashboard:** To track performance and sales insights.   
+✔️ **Real-time Chats:** with Admin to assist users instantly.   
 ✔️ **Secure Payments:** Integration with payment gateways.  
 
 ---
 
-## 🛠 **Tech Stack**
+## 💻 **Tech Stack**
 - **Frontend:** Flutter (Dart)  
 - **Backend:** Firebase (Firestore, Authentication, Storage)  
-- **State Management:** Provider / Riverpod / GetX  
+- **State Management:** Riverpod
 - **Database:** Firestore (NoSQL)  
 - **Authentication:** Firebase Auth  
 - **Storage:** Firebase Storage (for product images)  
@@ -66,42 +67,12 @@ flutter run
 
 ---
 
-## 📂 **Project Structure**
-```
-sneakify/
-│── lib/
-│   ├── main.dart
-│   ├── models/
-│   ├── screens/
-│   ├── widgets/
-│   ├── providers/
-│   ├── services/
-│── assets/
-│── pubspec.yaml
-│── README.md
-```
-
-### 📌 **Folder Breakdown**  
-- **models/** → Data models (e.g., User, Product, Order)  
-- **screens/** → UI Screens (Login, Home, Cart, Orders)  
-- **widgets/** → Reusable UI components  
-- **providers/** → State management logic  
-- **services/** → Firebase-related services  
-
----
 
 ## 📸 **Screenshots**
 > Add screenshots of your application for better visibility.  
-> Example:
-> ![Home Screen](https://github.com/FaizanAhmed44/Sneakify/asset/images/S.png)  
+> ![Screenshot 2025-02-08 111748-Photoroom](https://github.com/user-attachments/assets/d50019ae-d4fa-4d75-a642-22dc848def9a)  ![Screenshot 2025-02-08 111813-Photoroom](https://github.com/user-attachments/assets/e8682a85-8d93-4b54-bde9-260980515cb8)
+> <img src="https://cdn.tmobile.com/content/dam/t-mobile/en-p/cell-phones/apple/Apple-iPhone-16-Pro/Desert-Titanium/Apple-iPhone-16-Pro-Desert-Titanium-thumbnail.png" width="350" height="500">
 
-| **Screen**  | **Screenshot** |
-|-------------|---------------|
-| Home Screen | (Add Screenshot) |
-| Product Details | (Add Screenshot) |
-| Cart & Checkout | (Add Screenshot) |
-| Order History | (Add Screenshot) |
-| Admin Panel | (Add Screenshot) |
 
 ---
 
@@ -141,21 +112,25 @@ android/app/
 ## 🛠 **Admin Panel**
 - Admins can **add, edit, and delete products**.  
 - Order management for processing user purchases.  
-- **Secure access** to admin features.  
-
----
-
-## 🤝 **Contributing**
-Contributions are welcome! To contribute:  
-1️⃣ **Fork** the repository  
-2️⃣ **Create a branch** (`feature-xyz`)  
-3️⃣ **Commit your changes**  
-4️⃣ **Push to the branch**  
-5️⃣ **Create a Pull Request**  
+- **Secure access** to admin features.
+- **Analytics dashboard** to track performance and sales insights. 
 
 ---
 
 ## 📜 **License**
 This project is licensed under the **MIT License**.
+
+---
+
+## 🧑 **Author**
+**Faizan Ahmed**  
+🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/faizan-ahmed-303793255/)  
+
+---
+
+### ⭐ **Support & Follow**
+If you liked this repo, please **support it by giving a star ⭐!**  
+Also, follow my **GitHub profile** to stay updated about my latest projects:  
+🔗 **GitHub:** [Your GitHub Profile](https://github.com/FaizanAhmed44)
 
 ---
