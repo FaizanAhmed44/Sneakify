@@ -5,9 +5,15 @@
 
 ---
 
+
+
 ![15+ Screens (3)](https://github.com/user-attachments/assets/0849297d-73db-43eb-8882-3b56e85e6897)
 
+
+
 ---
+
+
 
 ## 📖 **Table of Contents**
 - [Features](#features)
@@ -19,7 +25,11 @@
 - [Admin Panel](#admin-panel)
 - [License](#license)
 
+
+
 ---
+
+
 
 ## 🎯 **Features**  
 ✔️ **30+** beautifully designed screens for a smooth and intuitive user journey.   
@@ -34,8 +44,12 @@
 ✔️ **Real-time Chats:** with Admin to assist users instantly.   
 ✔️ **Secure Payments:** Integration with payment gateways.  
 
+
+
   
 ---
+
+
 
 
 ## 💻 **Tech Stack**
@@ -47,11 +61,14 @@
 - **Storage:** Firebase Storage (for product images)  
 
 
+
+
 ---
 
 
-## 🛠 **Installation**  
 
+
+## 🛠 **Installation**  
 
 1️⃣ **Clone the Repository**  
 ```bash
@@ -71,7 +88,82 @@ flutter run
 ```
 
 
+
 ---
+
+
+
+
+## 📂 **Project Structure**
+```
+sneakify/
+│── 📦 your-flutter-app-repo
+├── 📂 lib
+│   ├── 📂 const
+│   ├── 📂 features
+│   │   ├── 📂 admin
+│   │   │   ├── 📂 admin_methods
+│   │   │   ├── 📂 adminbottomnavigation
+│   │   │   ├── 📂 analytics
+│   │   │   ├── 📂 chat
+│   │   │   ├── 📂 home
+│   │   │   ├── 📂 order_detail
+│   │   │   ├── 📂 orders
+│   │   │   ├── 📂 profile
+│   │   │   ├── 📜 upload_data.dart
+│   │   ├── 📂 login
+│   │   │   ├── 📂 logic
+│   │   │   ├── 📂 model
+│   │   │   ├── 📂 view
+│   │   ├── 📂 Shared
+│   │   │   │   ├── 📜 helperclass.dart
+│   │   │   │   ├── 📜 sharedclass.dart
+│   │   ├── 📂 user
+│   │   │   ├── 📂 address
+│   │   │   ├── 📂 bestseller
+│   │   │   ├── 📂 bottomnavigation
+│   │   │   ├── 📂 cart
+│   │   │   ├── 📂 checkout
+│   │   │   ├── 📂 editprofile
+│   │   │   ├── 📂 favorite
+│   │   │   ├── 📂 help_center
+│   │   │   ├── 📂 home
+│   │   │   ├── 📂 home_detail
+│   │   │   ├── 📂 leave_review
+│   │   │   ├── 📂 my_order
+│   │   │   ├── 📂 notification
+│   │   │   ├── 📂 onboarding
+│   │   │   ├── 📂 order
+│   │   │   ├── 📂 profile
+│   │   │   ├── 📂 review
+│   │   │   ├── 📂 search
+│   │   │   ├── 📂 setting
+│   │   │   ├── 📜 upload_data.dart
+├── 📂 theme
+├── 📂 utils
+├── 📜 firebase_options.dart
+├── 📜 main.dart
+└── 📜 README.md
+│── assets/
+│── pubspec.yaml
+│── README.md
+```
+
+
+### 📂 **Main Folder Breakdown**
+- lib/ → Main application codebase, including features, UI, and logic.
+- theme/ → Defines app-wide styling, colors, and fonts.
+- utils/ → Contains utility functions and helper classes.
+- assets/ → Stores static resources like images, icons, and fonts.
+- firebase_options.dart → Firebase configuration settings.
+- main.dart → Entry point of the Flutter application.
+- pubspec.yaml → Defines dependencies, assets, and app configurations.
+- README.md → Project documentation file.
+
+
+
+---
+
 
 
 
@@ -82,7 +174,10 @@ flutter run
 
 
 
+
 ---
+
+
 
 
 ## ⚙️ **How It Works**
@@ -104,7 +199,11 @@ flutter run
 - Orders are stored in Firebase Firestore.  
 
 
+
+
 ---
+
+
 
 
 ## 🔥 **Firebase Configuration**
@@ -119,7 +218,11 @@ android/app/
 6️⃣ Enable **Firebase Storage** for product images  
 
 
+
+
 ---
+
+
 
 
 ## 🛠 **Admin Panel**
@@ -129,14 +232,21 @@ android/app/
 - **Analytics dashboard** to track performance and sales insights. 
 
 
+
+
 ---
+
+
 
 
 ## 📜 **License**
 This project is licensed under the **MIT License**.
 
 
+
+
 ---
+
 
 
 ## 🧑 **Author**
@@ -144,13 +254,18 @@ This project is licensed under the **MIT License**.
 🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/faizan-ahmed-303793255/)  
 
 
+
+
 ---
+
+
 
 
 ### ⭐ **Support & Follow**
 If you liked this repo, please **support it by giving a star ⭐!**  
 Also, follow my **GitHub profile** to stay updated about my latest projects:  
 🔗 **GitHub:** [Your GitHub Profile](https://github.com/FaizanAhmed44)
+
 
 
 ---
