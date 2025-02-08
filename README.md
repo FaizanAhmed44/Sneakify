@@ -18,7 +18,8 @@
 ## 📖 **Table of Contents**
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Installation](#installation)
+- [Installation](#installation) 
+- [Project Structure](#iproject-structure) 
 - [Screenshots](#screenshots)
 - [How It Works](#how-it-works)
 - [Firebase Configuration](#firebase-configuration)
