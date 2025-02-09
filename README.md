@@ -1,5 +1,5 @@
 
-# 📌 **Sneakify - E-commerce App for Shoes**  
+# 👟 **Sneakify - E-commerce App for Shoes**  
 
 **Sneakify** is a Flutter-based e-commerce application designed for seamless online shoe shopping. The app is integrated with Firebase for authentication, database storage, and product management. It provides users with an intuitive shopping experience, secure checkout, and order tracking.
 
